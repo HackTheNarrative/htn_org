@@ -9,8 +9,7 @@
 
 get_header();
 
- require_once('page-templates/jumbotron-home.php');
-
-
-
+    require_once('page-templates/jumbotron-home.php');
+    require_once('page-templates/home-mission.php');
+    
 get_footer();

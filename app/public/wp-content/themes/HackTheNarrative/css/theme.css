@@ -10482,6 +10482,17 @@ a.skip-link {
   .jumbotron.jumbotron-fluid .jumbotron-sub.text-center {
     color: #fff !important; }
 
+.container.mission-home-section {
+  padding: 2rem 0; }
+
+.mission-home h4 {
+  color: #00AC83; }
+
+.mission-border {
+  border-bottom: 2px solid #2A3746;
+  margin: 3rem 0;
+  max-width: 98%; }
+
 /*
 * Use existing Bootstrap 4 classes and
 * variables to extend - override CF7 style
