@@ -10461,6 +10461,18 @@ a.skip-link {
 .gallery-caption {
   display: block; }
 
+#wrapper-footer {
+  background-color: #2A3746; }
+
+.site-info p {
+  color: #fff; }
+
+.site-info a {
+  color: #fff; }
+  .site-info a:hover {
+    color: #00AC83;
+    text-decoration: none; }
+
 .jumbotron.jumbotron-fluid {
   background-image: url("https://hackthenarrative.local/wp-content/uploads/2018/03/hero1.jpg");
   background-size: cover;

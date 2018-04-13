@@ -1,0 +1,17 @@
+#wrapper-footer {
+    background-color: #2A3746;
+}
+
+.site-info {
+    p {
+        color: #fff;
+    }
+    
+    a {
+        color: #fff;
+        &:hover{
+            color: #00AC83;
+            text-decoration: none;
+        }
+    }
+}
