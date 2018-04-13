@@ -8,4 +8,4 @@ CREATE TABLE `wp_ay4uq8t8eo_woocommerce_sessions` (
   `session_expiry` bigint(20) unsigned NOT NULL,
   PRIMARY KEY (`session_key`),
   UNIQUE KEY `session_id` (`session_id`)
-) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;
+) ENGINE=InnoDB AUTO_INCREMENT=3 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_520_ci;

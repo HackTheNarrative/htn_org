@@ -2,6 +2,7 @@
 /*!40014 SET FOREIGN_KEY_CHECKS=0*/;
 /*!40103 SET TIME_ZONE='+00:00' */;
 INSERT INTO `wp_ay4uq8t8eo_yoast_seo_meta` VALUES
+(37,0,0),
 (38,0,0),
 (39,0,0),
 (41,0,0),
@@ -370,4 +371,5 @@ INSERT INTO `wp_ay4uq8t8eo_yoast_seo_meta` VALUES
 (724,0,0),
 (725,0,0),
 (730,0,0),
-(731,0,0);
+(731,0,0),
+(737,0,0);

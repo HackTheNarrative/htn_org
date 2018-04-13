@@ -32,4 +32,5 @@ INSERT INTO `wp_ay4uq8t8eo_term_taxonomy` VALUES
 (28,28,"product_cat","",23,6),
 (29,29,"product_cat","",25,4),
 (30,30,"nav_menu","",0,34),
-(31,31,"nav_menu","",0,16);
+(31,31,"nav_menu","",0,16),
+(32,32,"nav_menu","",0,3);

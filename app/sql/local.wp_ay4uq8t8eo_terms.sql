@@ -32,4 +32,5 @@ INSERT INTO `wp_ay4uq8t8eo_terms` VALUES
 (28,"T-shirts","t-shirts",0),
 (29,"Albums","albums",0),
 (30,"menu1","menu1",0),
-(31,"menu2","menu2",0);
+(31,"menu2","menu2",0),
+(32,"Menu3","menu3",0);
